@@ -44,11 +44,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="images/step2-prepare-files.png" height="80%" width="80%" alt="Step 2 - Prepare Files"/>
 </p>
 <p>
-Step 2: Prepare Files → Install IIS & Dependencies → Enable IIS with CGI → Install PHP Manager, Rewrite Module, VC_redist, and MySQL.
+  Step 2: Prepare Files → Install IIS & Dependencies → Enable IIS with CGI → Install PHP Manager, Rewrite Module, VC_redist, and MySQL.
 </p>
+
 <br />
 
 <p>
