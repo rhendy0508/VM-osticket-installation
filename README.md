@@ -80,9 +80,11 @@ Step 5: Configure osTicket → Enable PHP extensions (imap, intl, opcache) → r
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="images/step6-database-final-setup.png" height="80%" width="80%" alt="Step 6: Database & Final Setup"/>
 </p>
 <p>
 Step 6: Database & Final Setup → Install HeidiSQL → create DB osTicket → finish browser setup
 </p>
+<br />
+
 <br />
