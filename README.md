@@ -53,11 +53,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="images/step3-setup-php.png" height="80%" width="80%" alt="Step 3 - Setup PHP"/>
 </p>
 <p>
-Step 3: Set Up PHP → Create C:\PHP → unzipped PHP 7.3.8 into it → register php-cgi.exe in IIS → restart IIS.
+Step 3: Set Up PHP → Create <code>C:\PHP</code> → unzipped PHP 7.3.8 into it → register <code>php-cgi.exe</code> in IIS → restart IIS.
 </p>
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
