@@ -35,11 +35,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="images/step1-osticket-vm.png" height="80%" width="80%" alt="Step 1 - Azure VM Creation"/>
 </p>
 <p>
-Step 1: Create VM & Connect → Make an Azure Windows 10 VM → log in via Remote Desktop.
+  Step 1: Create VM & Connect → Make an Azure Windows 10 VM → log in via Remote Desktop.
 </p>
+
 <br />
 
 <p>
