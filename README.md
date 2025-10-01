@@ -70,11 +70,13 @@ Step 4: Deploy osTicket → Unzip osTicket v1.15.8 → move “upload” folder 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="images/step5-config-osticket.png" height="80%" width="80%" alt="Step 5: Configure osTicket"/>
 </p>
 <p>
 Step 5: Configure osTicket → Enable PHP extensions (imap, intl, opcache) → rename ost-sampleconfig.php to ost-config.php → set permissions
 </p>
+<br />
+
 <br />
 
 <p>
