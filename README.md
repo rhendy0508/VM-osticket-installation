@@ -61,11 +61,12 @@ Step 3: Set Up PHP → Create <code>C:\PHP</code> → unzipped PHP 7.3.8 into it
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="step4-deploy-osticket.png" height="80%" width="80%" alt="Step 4: Deploy osTicket"/>
 </p>
 <p>
 Step 4: Deploy osTicket → Unzip osTicket v1.15.8 → move “upload” folder into C:\inetpub\wwwroot\ → rename it osTicket → restart IIS.
 </p>
+
 <br />
 
 <p>
