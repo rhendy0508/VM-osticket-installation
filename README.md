@@ -7,7 +7,7 @@
 </p>
 
 <h1> Microsoft Azure VM & osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket. Along with the Virtual Machine utilized from Microsoft Azure.<br />
+This project demonstrates the deployment of the open-source help desk ticketing system, osTicket, on a Microsoft Azure Virtual Machine. It highlights key IT concepts including cloud infrastructure provisioning, system configuration, and application installation in a virtualized environment.<br />
 
 
 <h2>Video Demonstration</h2>
