@@ -10,7 +10,7 @@
 This project demonstrates the deployment of the open-source help desk ticketing system, osTicket, on a Microsoft Azure Virtual Machine. It highlights key IT concepts including cloud infrastructure provisioning, system configuration, and application installation in a virtualized environment.<br />
 
 
-<h2>Video Demonstration</h2>
+<h2>My Personal Video Demonstration</h2>
 
 <p align="center">
   
