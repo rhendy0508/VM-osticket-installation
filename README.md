@@ -44,7 +44,7 @@ This project demonstrates the deployment of the open-source help desk ticketing 
   <img src="images/step1-osticket-vm.png" height="80%" width="80%" alt="Step 1 - Azure VM Creation"/>
 </p>
 <p>
-  Step 1: Create VM & Connect → Make an Azure Windows 10 VM → log in via Remote Desktop.
+  Step 1: Created VM & Connect → Made an Azure Windows 10 VM → Logged in via Remote Desktop.
 </p>
 
 <br />
@@ -53,7 +53,7 @@ This project demonstrates the deployment of the open-source help desk ticketing 
   <img src="images/step2-prepare-files.png" height="80%" width="80%" alt="Step 2 - Prepare Files"/>
 </p>
 <p>
-  Step 2: Prepare Files → Install IIS & Dependencies → Enable IIS with CGI → Install PHP Manager, Rewrite Module, VC_redist, and MySQL.
+  Step 2: Prepared Files → Installed IIS & Dependencies → Enabled IIS with CGI → Installed PHP Manager, Rewrite Module, VC_redist, and MySQL.
 </p>
 
 <br />
@@ -62,7 +62,7 @@ This project demonstrates the deployment of the open-source help desk ticketing 
 <img src="images/step3-setup-php.png" height="80%" width="80%" alt="Step 3 - Setup PHP"/>
 </p>
 <p>
-Step 3: Set Up PHP → Create <code>C:\PHP</code> → unzipped PHP 7.3.8 into it → register <code>php-cgi.exe</code> in IIS → restart IIS.
+Step 3: Set Up PHP → Created <code>C:\PHP</code> → Unzipped PHP 7.3.8 into it → Registered <code>php-cgi.exe</code> in IIS → Restarted IIS.
 </p>
 
 
@@ -70,7 +70,7 @@ Step 3: Set Up PHP → Create <code>C:\PHP</code> → unzipped PHP 7.3.8 into it
 <img src="images/step4-deploy-osticket.png" height="80%" width="80%" alt="Step 4: Deploy osTicket"/>
 </p>
 <p>
-Step 4: Deploy osTicket → Unzip osTicket v1.15.8 → move “upload” folder into C:\inetpub\wwwroot\ → rename it osTicket → restart IIS.
+Step 4: Deployed osTicket → Unzipped osTicket v1.15.8 → Moved “upload” folder into C:\inetpub\wwwroot\ → Renamed it osTicket → Restarted IIS.
 </p>
 
 <br />
@@ -79,7 +79,7 @@ Step 4: Deploy osTicket → Unzip osTicket v1.15.8 → move “upload” folder 
 <img src="images/step5-config-osticket.png" height="80%" width="80%" alt="Step 5: Configure osTicket"/>
 </p>
 <p>
-Step 5: Configure osTicket → Enable PHP extensions (imap, intl, opcache) → rename ost-sampleconfig.php to ost-config.php → set permissions
+Step 5: Configured osTicket → Enabled PHP extensions (imap, intl, opcache) → Renamed ost-sampleconfig.php to ost-config.php → Set permissions
 </p>
 <br />
 
@@ -89,7 +89,7 @@ Step 5: Configure osTicket → Enable PHP extensions (imap, intl, opcache) → r
 <img src="images/step6-database-final-setup.png" height="80%" width="80%" alt="Step 6: Database & Final Setup"/>
 </p>
 <p>
-Step 6: Database & Final Setup → Install HeidiSQL → create DB osTicket → finish browser setup
+Step 6: Database & Final Setup → Installed HeidiSQL → Created DB osTicket → Finished browser setup
 </p>
 <br />
 
